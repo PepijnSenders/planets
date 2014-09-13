@@ -1,0 +1,29 @@
+{
+  "name": "planets",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "NoProtocol <info@noprotocol.nl>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "bower": "*",
+    "connect-multiparty": "*",
+    "cookie-parser": "*",
+    "dot": "*",
+    "ejs": "*",
+    "express": "*",
+    "jade": "*",
+    "morgan": "*",
+    "newrelic": "*",
+    "phantom": "*",
+    "phantomjs": "*",
+    "q": "*",
+    "sugar": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-livereload": "*",
+    "gulp-noprotocol": "*"
+  }
+}

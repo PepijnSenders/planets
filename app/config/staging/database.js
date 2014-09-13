@@ -1,0 +1,1 @@
+module.exports = exports = { name: 'mongodb://localhost/planets_sdb'};
