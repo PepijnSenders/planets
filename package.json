@@ -25,7 +25,7 @@
     "gulp-noprotocol": "*"
   },
   "scripts": {
-    "start": "npm start",
+    "start": "node app/index.js",
     "postinstall": "bower install && gulp deploy"
   }
 }
