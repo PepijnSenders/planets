@@ -25,5 +25,9 @@
     "gulp": "*",
     "gulp-livereload": "*",
     "gulp-noprotocol": "*"
+  },
+  "scripts": {
+    "start": "npm start",
+    "postinstall": "bower install && gulp deploy"
   }
 }
