@@ -19,9 +19,7 @@
     "phantomjs": "*",
     "q": "*",
     "sugar": "*",
-    "mongoose": "*"
-  },
-  "devDependencies": {
+    "mongoose": "*",
     "gulp": "*",
     "gulp-livereload": "*",
     "gulp-noprotocol": "*"
